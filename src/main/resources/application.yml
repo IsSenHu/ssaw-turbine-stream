@@ -1,7 +1,6 @@
 server:
   port: 16002
 
-
 eureka:
   client:
     service-url:
